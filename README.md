@@ -1,2 +1,2 @@
 # PLM
-It will to been described how to developed in dassult system 
+It will to been described how to develop in dassult system 
